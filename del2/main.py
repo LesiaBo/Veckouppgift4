@@ -58,3 +58,4 @@ print(modul.average(4, 8))
 #2. b
 #3. 3.14
 modul.pretty_print(["a", "b", 3.14])
+
